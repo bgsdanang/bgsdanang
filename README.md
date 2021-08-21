@@ -6,6 +6,7 @@
 </p>
 
 
+
 🔍 Reach me out!
 
  
@@ -13,7 +14,7 @@
  [![Mail Badge](https://img.shields.io/badge/-DanangBgs-1b1e23?style=flat&labelColor=1b1e23&logo=medium&logoColor=white)](https://medium.com/@danangbgs)
  [![Mail Badge](https://img.shields.io/badge/-@bgsdanang-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bgsdanang) 
  [![Mail Badge](https://img.shields.io/badge/-Danang_Bagus-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danangb07@gmail.com)
- 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=bgsdanang.bgsdanang)
 
 |||
 |---|---|
