@@ -15,7 +15,6 @@
  [![Mail Badge](https://img.shields.io/badge/-Danang_Bagus-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danangb07@gmail.com)
  
 
-![lintang github stat](https://github-readme-stats.vercel.app/api?username=bgsdanang&show_icons=true&hide_border=true&theme=tokyonight) 
-![bgsdanang github stats](https://github-readme-stats.vercel.app/api?username=bgsdanang&count_private=true&theme=tokyonight&hide=contribs,prs) <br>
-![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=LintangWisesa&layout=compact&hide_border=true&theme=tokyonight) 
+![bgsdanang github stat](https://github-readme-stats.vercel.app/api?username=bgsdanang&show_icons=true&hide_border=true&theme=tokyonight)
+![bgsdanang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=LintangWisesa&layout=compact&hide_border=true&theme=tokyonight) 
 
