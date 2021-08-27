@@ -1,5 +1,5 @@
 <p align = "center"> 
-  <img  src = "https://github.com/bgsdanang/DQLab/blob/main/Gambar/gif%20work.gif" width = 500px>
+  <img  src = "https://github.com/bgsdanang/DQLab/blob/main/Gambar/gif%20work.gif" width = 400px height = 300px>
 </p>
 
 
