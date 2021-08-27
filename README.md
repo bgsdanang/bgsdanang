@@ -5,8 +5,8 @@
   I am a statistics student at the Islamic University of Indonesia. I am interested in learning about Data Science, Big data, and Database.
 </p>
 
-
-
+<img scr = "">
+  
 🔍 Reach me out!
 
  
