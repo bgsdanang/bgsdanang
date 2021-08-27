@@ -1,9 +1,8 @@
-<p align = "center"> 
-  <img  src = "https://github.com/bgsdanang/DQLab/blob/main/Gambar/gif%20work.gif" width = 400px height = 300px>
-</p>
 
+<img align = "right" src = "https://github.com/bgsdanang/DQLab/blob/main/Gambar/gif%20work.gif" width = 287px>
 
 ## Hello &nbsp; <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> &nbsp; I'm Danang :blush:  
+
 
 
 <p align="justify">
@@ -11,7 +10,7 @@
 </p> 
 
 
-
+<br>
 
 🔍 Reach me out!
 
@@ -21,6 +20,7 @@
  [![Mail Badge](https://img.shields.io/badge/-@bgsdanang-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bgsdanang) 
  [![Mail Badge](https://img.shields.io/badge/-Danang_Bagus-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danangb07@gmail.com)
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=bgsdanang.bgsdanang)
+ 
 
 
 |||
